@@ -1,1 +1,1 @@
-# js_web_dev_path
+# Java Script Web Developer Course
