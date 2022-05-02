@@ -1,5 +1,5 @@
-function printArray(strArr, delimiter) {
-    console.log(strArr.join(delimiter));
+function printArray(arr, delimiter) {
+    console.log(arr.join(delimiter));
 }
 
 printArray(['One', 
